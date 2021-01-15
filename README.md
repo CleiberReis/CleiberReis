@@ -9,9 +9,9 @@ Amo tudo que envolva tecnologia, curto bastante jogos para celulares :iphone:. T
 </p>
 <br />
 
-## <b>O que me motiva?</b>
+## <b> :muscle: O que me motiva?</b>
 
-<p>
+<p> <samp>
 Com 32 anos de idade, já venci um câncer, então tenho sempre em mente que nenhum problema é tão difícil que não se possa enfrentar e vencer, mas tenha sempre em mente que você irá precisar de amigos ao longo de qualquer jornada.
 
 Uma frase que guardo comigo: <br />
@@ -22,7 +22,7 @@ Uma frase que guardo comigo: <br />
 
 <br />
 
-## <b>Atividade:</b>
+## <b> :rocket: Atividade:</b>
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=CleiberReis&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=(#2dde16)" />
