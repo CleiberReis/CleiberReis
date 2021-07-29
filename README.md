@@ -9,12 +9,14 @@
 ## <b> :rocket: Atividade:</b>
 
 <div style="display: inline_block" align="center">
+  <a href="https://github.com/CleiberReis" >
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=CleiberReis&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=(#2dde16)" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiberReis&custom_title=Cleiber Most Used Languages&layout=compact&theme=dracula&title_color=(#2dde16)" />
+  </a>
 </div>
 <div align="center">
   
-  ![Snake animation](https://github.com/CleiberReis/CleiberReis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CleiberReis/CleiberReis/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
