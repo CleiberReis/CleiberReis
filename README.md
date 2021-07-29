@@ -38,3 +38,6 @@ Uma frase que guardo comigo: <br />
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=fff&link=https://www.instagram.com/cleiberrreis/)](https://www.instagram.com/cleiberrreis/) &nbsp;
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100e?style=for-the-badge&logo=Medium&logoColor=fff&link=https://medium.com/@cleiberrodriguesreis)](https://medium.com/@cleiberrodriguesreis) &nbsp;
 [![NPM Badge](https://img.shields.io/badge/-NPM-12100e?style=for-the-badge&logo=npm&logoColor=fff&link=https://www.npmjs.com/~cleiberreis)](https://www.npmjs.com/~cleiberreis) &nbsp;
+
+
+![Snake animation](https://github.com/CleiberReis/CleiberReis/blob/output/github-contribution-grid-snake.svg)
