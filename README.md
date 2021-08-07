@@ -2,7 +2,7 @@
 
 <div>
 <p><samp>
-  Sou formado em Gestão da Tecnologia da Informação pela FATEC de Guaratinguetá/SP, com foco em desenvolvimento, tenho muito interesse nas áreas de Machine Learning e Mobile. Estou sempre construindo/desenvolvendo coisas novas, principalmente se for para ajudar alguém a resolver algum problema. <br /> Atualmente estudando mais<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> e <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">.
+  Sou formado em Gestão da Tecnologia da Informação pela FATEC de Guaratinguetá/SP, com foco em desenvolvimento, tenho muito interesse nas áreas de Machine Learning e Mobile. Estou sempre construindo/desenvolvendo coisas novas, principalmente se for para ajudar alguém a resolver algum problema. <br /> Atualmente estudando mais #JavaScript (<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">) e #Python(<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">).
 </p>
 <div>
 
